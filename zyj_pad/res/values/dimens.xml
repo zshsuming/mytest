@@ -1,0 +1,63 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="LargeTextSize">16.0dip</dimen>
+    <dimen name="txt_app_title">22.0sp</dimen>
+    <dimen name="font_size_10">10.0sp</dimen>
+    <dimen name="font_size_12">12.0sp</dimen>
+    <dimen name="font_size_13">13.0sp</dimen>
+    <dimen name="font_size_14">14.0sp</dimen>
+    <dimen name="font_size_16">16.0sp</dimen>
+    <dimen name="font_size_18">18.0sp</dimen>
+    <dimen name="font_size_20">20.0sp</dimen>
+    <dimen name="font_size_22">22.0sp</dimen>
+    <dimen name="font_size_24">24.0sp</dimen>
+    <dimen name="font_size_26">28.0sp</dimen>
+    
+    
+    <dimen name="staisfaction_num_font_size">22.0sp</dimen>
+    <dimen name="rl_title_font_size">24.0sp</dimen>
+    <dimen name="rl_content_font_size">20.0sp</dimen>
+    
+    <dimen name="bottom_tab_padding_drawable">0.0dip</dimen>
+    <dimen name="bottom_tab_padding_up">1.0dip</dimen>
+    <dimen name="header_height">180.0dip</dimen>
+    <dimen name="header_image_height">150.0dip</dimen>
+    <dimen name="header_banner_height">30.0dip</dimen>
+    <dimen name="top_bar_height">45.0dip</dimen>
+    <dimen name="top_bar_progressbar_margin_right">10.0dip</dimen>
+    <dimen name="top_bar_progressbar_width">35.0dip</dimen>
+    <dimen name="btn_back_height">30.0dip</dimen>
+    <dimen name="btn_back_margin_left">10.0dip</dimen>
+    <dimen name="dip10">10.0dip</dimen>
+    <dimen name="dip50">50.0dip</dimen>
+    <dimen name="dip200">200.0dip</dimen>
+    <dimen name="divider_height">2.0px</dimen>
+    <dimen name="BasicTextSize">15.0dip</dimen>
+    <dimen name="TitleTextSize">18.0dip</dimen>
+    <dimen name="SmallTextSize">14.0dip</dimen>
+    <dimen name="SmallerTextSize">13.0dip</dimen>
+    <dimen name="LargestTextSize">30.0dip</dimen>
+    <dimen name="ChattingTextSize">16.0dip</dimen>
+    <dimen name="ChattingContentMinHeight">49.0dip</dimen>
+    <dimen name="PreferenceItemHeight">42.0dip</dimen>
+    <dimen name="ConversationItemHeight">58.0dip</dimen>
+    <dimen name="LargeAvatarSize">56.0dip</dimen> 
+    <dimen name="title_height">48dip</dimen>
+    
+    <dimen name="px12">8dip</dimen>
+	<dimen name="px18">12dip</dimen>
+	<dimen name="px24">16dip</dimen>
+	<dimen name="px30">20dip</dimen>
+	<dimen name="px36">24dip</dimen>
+	<dimen name="px42">28dip</dimen>
+	<dimen name="px48">32dip</dimen>
+
+</resources>
+
+
+
+
+

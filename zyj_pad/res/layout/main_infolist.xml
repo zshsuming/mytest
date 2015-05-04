@@ -1,0 +1,82 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/image_cover"
+            android:layout_width="96dp"
+            android:layout_height="80dp"
+            android:layout_centerInParent="true"
+            android:layout_margin="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_launcher" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/text_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:layout_marginRight="6dp"
+            android:text="第一行"
+            android:textSize="@dimen/font_size_16" />
+        
+        <TextView
+            android:id="@+id/sub_title_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text_title"
+            android:layout_marginTop="3dp"
+            android:text="第二行"
+            android:paddingBottom="1dp"
+            android:textSize="@dimen/font_size_14" />
+
+        <TextView
+            android:id="@+id/sub_title_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sub_title_1"
+            android:layout_marginTop="2dp"
+             android:text="第三行"
+            android:textSize="@dimen/font_size_14" />
+        
+        <TextView
+            android:id="@+id/sub_title_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:layout_below="@id/sub_title_2"
+            android:text="第四行"
+            android:textSize="@dimen/font_size_14" />
+
+        <TextView
+            android:id="@+id/text_place"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@id/text_title"
+            android:layout_marginRight="5dp"
+            android:textSize="@dimen/font_size_16" />
+
+        <TextView
+            android:id="@+id/text_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text_title"
+            android:layout_marginRight="2dp"
+            android:layout_toLeftOf="@id/text_place"
+            android:textColor="@color/orange"
+            android:textSize="@dimen/font_size_18"
+             />
+    </RelativeLayout>
+
+</LinearLayout>

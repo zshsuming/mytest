@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="red">#FF4040</color>
+    
+    <color name="green">#ff008800</color>
+    <color name="white">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray">#ff666666</color>
+    <color name="gray_new">#ff666666</color>
+    
+    <color name="sale">#ff6600</color>
+    <color name="only">#ff0000</color>
+    
+    
+    
+    <color name="black">#ff000000</color>
+    <color name="lightgray">#f9fafb</color>
+    <color name="oldborder">#EEEEEE</color>
+    <color name="darkgray">#99333333</color>
+    <color name="lucid">#66666666</color>
+    <color name="hint_color">#ffc0c0c0</color>
+    <color name="red_new">#ff0000</color>
+    <color name="blue">#929292</color>
+    <color name="blue_new">#16a086</color>
+    
+    <color name="audio_bg_color">#77c0c0c0</color>
+    <color name="divider_color">#eecbcbcb</color>
+    <color name="bg_color2">#f5f6f6</color>
+    <color name="bg_color">#f1f1f1</color>
+    <color name="bg_click_color">#776c88ae</color>
+    <color name="nav_shadow_color">#ffe4e4e4</color>
+    <color name="copyright_color">#ff999999</color>
+    <color name="click_color">#ff6c88ae</color>
+    <color name="ui_bg_divider">#ffc1c9ca</color>
+    <color name="orange">#f60</color>
+<!--     <color name="orange">#1abc9c</color> -->
+    <color name="new_gray">#666666</color>
+    <color name="themeColor">#ff4abdcc</color>
+    <color name="activity_bg">#fffbf7ed</color>
+    <color name="hintColor">#ff999999</color>
+    <color name="title_bg_color">#ff007d65</color>
+    <color name="main_bottom_color">#eaedf2</color>
+    
+    <!-- #1abc9c -->
+    
+    
+    <color name="color_font_datetime">#bbbaba</color>
+    <color name="color_bg_2">#f5f6f6</color>
+    <color name="color_font_1">#7f8d9a</color>
+    <color name="color_font_2">#7f8c9a</color>
+    <color name="color_font_3">#bdc3c7</color>
+    <color name="color_font_about">#34495e</color>
+    <color name="color_edit">#ff000000</color>
+    <color name="color_loading">#66600000</color>
+    <color name="color_network_exception">#b5b5b5</color>
+    <color name="color_letter_count">#e74c3c</color>
+    
+</resources>
+
+
